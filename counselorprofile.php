@@ -193,7 +193,7 @@ if (isset($_GET["msg"])) {
 
         </div>
         <div class="d-grid gap-2" >
-            <button class="btn btn-primary loginbtn" type="button" style="border: none">Treatment</button>
+            <button class="btn btn-primary loginbtn" type="button" style="border: none"><a href="doctors.php" style="text-decoration: none; color: white">Create Appointment</a></button>
             <!--            <button class="btn btn-primary doctrbtn" type="button">Appointment</button>-->
         </div>
 
